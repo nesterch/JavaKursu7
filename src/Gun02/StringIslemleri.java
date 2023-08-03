@@ -9,6 +9,8 @@ public class StringIslemleri {
 
         System.out.println("merhaba 2");
 
+        System.out.println("merhaba 3");
+
     }
 
 }
