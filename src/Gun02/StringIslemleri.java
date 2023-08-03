@@ -13,6 +13,8 @@ public class StringIslemleri {
 
         System.out.println("merhaba 4");
 
+        System.out.println("merhaba 5");
+
     }
 
 }
