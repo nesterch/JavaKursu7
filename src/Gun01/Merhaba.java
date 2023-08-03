@@ -6,5 +6,9 @@ public class Merhaba {
         System.out.println("Merhaba Dünya");
 
 
+        for (int i = 0; i < 5; i++) {
+            System.out.println("merhaba");
+        }
+
     }
 }
